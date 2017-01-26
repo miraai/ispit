@@ -1,0 +1,9 @@
+com\mycompany\ispit\entity\Category.class
+com\mycompany\ispit\controller\CategoryController.class
+com\mycompany\ispit\controller\InstrumentController.class
+com\mycompany\ispit\dao\InstrumentDao.class
+com\mycompany\ispit\entity\Instrument.class
+com\mycompany\ispit\controller\MainController.class
+com\mycompany\ispit\dao\impl\InstrumentDaoImpl.class
+com\mycompany\ispit\dao\impl\CategoryDaoImpl.class
+com\mycompany\ispit\dao\CategoryDao.class
